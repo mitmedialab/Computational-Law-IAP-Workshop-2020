@@ -49,7 +49,7 @@ The 2020 MIT IAP Computational Law Course pursues a cross-disciplinary explorati
 
 **Scott Kelly**: Prototyping Computational Legal Systems
 
-**AALE Overview?**: Automated and Autonomous Legal Entities
+**AALE Overview**: Automated and Autonomous Legal Entities
 
 ### Day 4 (TBA: third or fourth week of Jan)
 Submit a project for consideration on Day 4 by filling out this Google Form and making a pull request in our GitHub Repo.
