@@ -1,5 +1,11 @@
 # 2020 IAP Computational Law Course Website
 
+> ***Course Links***
+> * [Course Site](https://mitmedialab.github.io/Computational-Law-IAP-Workshop-2020)
+> * [MIT Course Listing](http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html)
+> * [law.MIT.edu Youtube Channel](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
+> * [Computational Law Finder](https://computationallaw.github.io/CLR//Research.html)
+
 ## Home
 The 2020 MIT IAP Computational Law workshop course is a free, open, and digital-first class. The structure of the course involves a series of lectures that will be recorded and posted on youtube, on-going commentary through our class telegram channel, and other real time collaborations.
 
@@ -11,22 +17,15 @@ The structure of the course will consist of the following:
 ### Overview of Course
 The 2020 MIT IAP Computational Law Course pursues a cross-disciplinary exploration of the implications of emerging technologies on law and legal processes, with an emphasis on the development and deployment of automated computational business and legal systems. The course includes special focus areas on rules-driven Artificial Intelligence, Blockchain, and Autonomous Transaction Networks. We will cover a variety of issues, including identification and integration of the business/legal/technical layers or facets of various commercial, industrial, infrastructural, educational, social, political and governmental web-based systems, the complex interaction between governance and sovereignty in public and private sector contexts and the emergence of algorithmic, adaptive methods and mechanisms for regulatory, adjudicative, fiduciary, contractual and other legal processes.
 
+### Core Team
+
+**Dazza Greenwood** Instructor
+**Bryan Wilson** Co-Instructor
+
 
 ### Unified Slides
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMCxkhm3Qtfo4O8NHMsO_OYUiZKboXdDvFOONN0Mqr_e_39BxU7d-Ae-5V9gv1gvYMmWBQ96uxWK3y/embed?start=false&loop=false&delayms=60000" frameborder="0" width="674" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-### Quick Links
-
-**2020 Course**
-* [MIT Course Listing](http://student.mit.edu/searchiap/iap-9289af8d5886ad4401588dd8e54f0108.html)
-* [Course GitHub Repo](https://github.com/mitmedialab/Computational-Law-IAP-Workshop-2020)
-* [law.MIT.edu Youtube Channel](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw)
-* [Computational Law Finder](https://computationallaw.github.io/CLR//Research.html)
-
-**Past Courses**
-* [2019 MIT IAP Computational Law Course](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/)
-* [2018 MIT IAP Computational Law Course](https://mitmedialab.github.io/2018-MIT-IAP-ComputationalLaw/)
 
 -----
 
@@ -57,28 +56,17 @@ Submit a project for consideration on Day 4 by filling out this Google Form and 
 
 ### Background Materials
 
+**MIT Computational Law Report**
+* [Law.MIT.edu](https://law.mit.edu)
+
+**Chris Berendt**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pjCdtm8P66I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Past Courses**
+* [2019 MIT IAP Computational Law Course](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/)
+* [2018 MIT IAP Computational Law Course](https://mitmedialab.github.io/2018-MIT-IAP-ComputationalLaw/)
 
 -----
 
-## People
 
-### Core Team
-
-**Dazza Greenwood** Instructor
-
-**Bryan Wilson** Co-Instructor
-
-### Speakers
-
-**Brian Ulicny** [Lecture Title]
-
-**Chris Berendt** [Lecture Title]
-
-**Prof. Alex "Sandy" Pentland** [Lecture Title]
-
-**Navroop Sahdev** [Lecture Title]
-
-**Scott Kelly** [Lecture Title]
-
------
 
