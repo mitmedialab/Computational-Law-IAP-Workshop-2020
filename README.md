@@ -60,6 +60,11 @@ Submit a project for consideration on Day 4 by filling out this Google Form and 
 * [Law.MIT.edu](https://law.mit.edu)
 
 **Chris Berendt**
+
+* [CFTC Rule on Intangible/Digital Environmental Commodities](https://github.com/mitmedialab/Computational-Law-IAP-Workshop-2020/blob/master/resources/Final-Rule-Swap-Def-8-2012.pdf)
+* [The Nature of the Thing: Failure to distinguish between environmental instruments and the
+cash-settled contracts based on them could impose crippling costs](https://github.com/mitmedialab/Computational-Law-IAP-Workshop-2020/blob/master/resources/EF0611_pp20-21.pdf)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pjCdtm8P66I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Past Courses**
