@@ -31,7 +31,7 @@ The 2020 MIT IAP Computational Law Course pursues a cross-disciplinary explorati
 
 ## Schedule
 
-### Day 1
+### Day 1: Jan 7, 1:30-3:30PM Eastern Time
 
 **Brian Ulicny**: Tax as a computational legal system
 
@@ -39,22 +39,22 @@ The 2020 MIT IAP Computational Law Course pursues a cross-disciplinary explorati
 **Chris Berendt**: Structuring transactions as legal engineering
 
 
-### Day 2
+### Day 2: Jan 8, 1:30-3:30PM Eastern Time
 
 **Prof. Alex "Sandy" Pentland**: Legal Algorithms
 
 **Navroop Sahdev**: Digital economics and Computational Law
 
-### Day 3
+### Day 3: Jan 9, 1:30-3:30PM Eastern Time
 
 **Scott Kelly**: Prototyping Computational Legal Systems
 
 **AALE Overview?**: Automated and Autonomous Legal Entities
 
-### Day 4
+### Day 4 (TBA: third or fourth week of Jan)
 Submit a project for consideration on Day 4 by filling out this Google Form and making a pull request in our GitHub Repo.
 
-### Background Materials
+## Background Materials
 
 **MIT Computational Law Report**
 * [Law.MIT.edu](https://law.mit.edu)
