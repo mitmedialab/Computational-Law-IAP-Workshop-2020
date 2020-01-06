@@ -73,5 +73,7 @@ cash-settled contracts based on them could impose crippling costs](https://githu
 
 -----
 
+## Code of Conduct
+* https://github.com/mitmedialab/Computational-Law-IAP-Workshop-2020/blob/master/CodeOfConduct.md
 
 
