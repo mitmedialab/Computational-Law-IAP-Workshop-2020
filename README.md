@@ -35,9 +35,9 @@ The 2020 MIT IAP Computational Law Course pursues a cross-disciplinary explorati
 
 **Brian Ulicny**: Tax as a computational legal system
 
+**Dazza Greenwood and Bryan Wilson**: Introduction to Computational Law pt. 1
 
-**Chris Berendt**: Structuring transactions as legal engineering
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xziQdjFjUX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Day 2: Jan 8, 1:30-3:30PM Eastern Time
 
