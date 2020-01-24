@@ -1,0 +1,9 @@
+In order to give participants an opportunity to take what they learned in the course and apply it to a domain of computational law that they find interesting, there will be an opportunity toward the end of January to submit a final presentation. We have imagined two types of presentations students can work on, but this is by no means an exhaustive list.
+
+#### Project Type 1: Write about something you learned
+Discuss the potential impact of computational law on a topic of your choice. Examples might include what Judge Wilfredo Martinez put forth at the end of class on day 2: "what might an international court based on computational law be?" As mentioned during the course, part of the scope of this project might include a look at the drivers and inhibitors of certain types of behavior and ways they can be managed using a computational legal system. Note: the definition of "write" in this context is construed liberally to include written content, slide presentations, and other artifacts that represent your ideas.
+
+#### Project Type 2: Build a computational law app
+Using an Open-Source tool, such as [community.lawyer](https://community.lawyer) or [Docassemble](https://docassemble.org/), create an app that computes some aspect of law or legal practice. Examples can include automating the formation documents for a legal entity, creating a computational tax system, or automatically generating a pleading based on different aspects of a case. If you are submitting a project of this type, please be so kind to make a pull request in our GitHub Repository in this Final Projects Folder.
+
+***All participants wishing to present final projects should register to submit [here](https://forms.gle/Vw4a5dzuShpAhfp6A) so that we can have the schedule organized to include time for everyone.***
