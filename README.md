@@ -59,6 +59,9 @@ The 2020 MIT IAP Computational Law Course pursues a cross-disciplinary explorati
 cash-settled contracts based on them could impose crippling costs](https://github.com/mitmedialab/Computational-Law-IAP-Workshop-2020/blob/master/resources/EF0611_pp20-21.pdf)
 
 ### Day 4 January 24, 2:30 - 3:30 PM Eastern Time
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dkt-Yx_eYtY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 In order to give participants an opportunity to take what they learned in the course and apply it to a domain of computational law that they find interesting, there will be an opportunity toward the end of January to submit a final presentation. We have imagined two types of presentations students can work on, but this is by no means an exhaustive list.
 
 #### Project Type 1: Write about something you learned
